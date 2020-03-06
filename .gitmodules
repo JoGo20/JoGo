@@ -1,3 +1,6 @@
 [submodule "Implementation"]
 	path = Implementation
 	url = https://github.com/JoGo20/Implementation
+[submodule "GUI"]
+	path = GUI
+	url = https://github.com/JoGo20/GUI
