@@ -4,3 +4,6 @@
 [submodule "GUI"]
 	path = GUI
 	url = https://github.com/JoGo20/GUI
+[submodule "Communication"]
+	path = Communication
+	url = https://github.com/JoGo20/Communication
